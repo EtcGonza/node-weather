@@ -1,6 +1,6 @@
 ## It shows the climate of a place.
 
-execute: npm install
+execute: ````npm install````
 
 ## Example
 ````
