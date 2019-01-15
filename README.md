@@ -3,5 +3,6 @@
 execute: npm install
 
 ## Example
-
+````
 node app -d "Argentina Buenos Aires"
+````
